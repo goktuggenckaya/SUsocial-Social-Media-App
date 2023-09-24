@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SUSocial</string>
+    <string name="facebook_app_id">671721010524978</string>
+    <string name="fb_login_protocol_scheme">fb671721010524978</string>
+    <string name="facebook_client_token">e37e30cf257ebff3a86f3d8ace952b8c</string>
+</resources>

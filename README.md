@@ -1,2 +1,16 @@
-# SUsocial Social Media App
- Using the skills we learn from CS310 Mobile Application Development course, with a group of 6, we developed SuSocial, aiming it would facilitate the social relationships within university.  Users were able to sign in, google sign-in an sign up, we developed a profile page, feed view, search view and added sharing posts, liking and commenting posts, private and public profile  features etc. 
+# cs310group1
+
+CS310 Project of Group1.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
